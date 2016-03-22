@@ -1,4 +1,5 @@
 Completar por cada grupo
 ***B
+***A
 Nombre del Grupo: <nombre>
 Integrantes: <apellido, nombres - DNI>
